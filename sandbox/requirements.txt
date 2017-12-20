@@ -1,0 +1,11 @@
+bcrypt==3.1.4
+cffi==1.11.2
+numpy==1.13.3
+opencv-python==3.3.1
+pycparser==2.18
+PyQt5==5.9.2
+PythonMagick==0.9.13
+sip==4.19.6
+six==1.11.0
+SQLAlchemy==1.1.15
+tornado==4.5.2
