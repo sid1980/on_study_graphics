@@ -1,0 +1,1 @@
+ffserver_win_254.exe -d -f etc\ffserver.conf

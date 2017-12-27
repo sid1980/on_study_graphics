@@ -1,0 +1,1 @@
+ffmpeg -f gdigrab -framerate 25 -i desktop desktop.mp4
