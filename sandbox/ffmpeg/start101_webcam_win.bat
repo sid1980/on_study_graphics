@@ -1,0 +1,1 @@
+ffmpeg -y -f vfwcap -r 25 -i 0 out.mp4
